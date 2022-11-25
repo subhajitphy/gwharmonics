@@ -8,7 +8,7 @@ from scipy.integrate import cumtrapz
 from constants import *
 
 def waveform(m1,m2,e,n,i,f_obs,n_obs,r,t,key):
-    
+    ''' Adapted from https://arxiv.org/pdf/astro-ph/0111107.pdf'''
     M=m1+m2
     eta=m1*m2/(m1+m2)**2
     Mc=M*eta**(3/5)
