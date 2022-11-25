@@ -1,1 +1,1 @@
-![alt text](info.jpg?raw=true)
+![alt text](info.png?raw=true)
