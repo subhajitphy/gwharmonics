@@ -1,1 +1,1 @@
-f_obs and n_obs are the observed frequency and predicted harmonic index (eg, for wave2 it's n_obs=2 and log10 f_obs=-8.33)."ti" is the initial epoch, r is the distance to the source. The key=1 incorporates the advance of periastron and key=0 sets this off. "i" is the inclination angle. 
+![alt text](info.jpg?raw=true)
